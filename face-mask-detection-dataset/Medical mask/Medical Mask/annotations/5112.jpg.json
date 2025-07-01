@@ -1,0 +1,1 @@
+{"FileName": "5112.jpg", "NumOfAnno": 2, "Annotations": [{"isProtected": false, "ID": 143954250497067232, "BoundingBox": [67, 65, 327, 497], "classname": "face_other_covering", "Confidence": 1, "Attributes": {}}, {"isProtected": false, "ID": 510513199643387392, "BoundingBox": [74, 65, 338, 526], "classname": "balaclava_ski_mask", "Confidence": 1, "Attributes": {}}]}

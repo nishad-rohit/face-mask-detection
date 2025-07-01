@@ -1,0 +1,1 @@
+{"FileName": "5716.jpg", "NumOfAnno": 2, "Annotations": [{"isProtected": false, "ID": 628926511737078016, "BoundingBox": [464, 4, 1766, 1261], "classname": "hijab_niqab", "Confidence": 1, "Attributes": {}}, {"isProtected": false, "ID": 274474625564536512, "BoundingBox": [474, 13, 1761, 1253], "classname": "face_other_covering", "Confidence": 1, "Attributes": {}}]}

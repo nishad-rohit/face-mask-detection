@@ -1,0 +1,1 @@
+{"FileName": "1873.png", "NumOfAnno": 2, "Annotations": [{"isProtected": false, "ID": 534068837698484928, "BoundingBox": [717, 180, 1266, 813], "classname": "face_with_mask", "Confidence": 1, "Attributes": {}}, {"isProtected": false, "ID": 268178204697503744, "BoundingBox": [788, 418, 1227, 796], "classname": "mask_surgical", "Confidence": 1, "Attributes": {}}]}

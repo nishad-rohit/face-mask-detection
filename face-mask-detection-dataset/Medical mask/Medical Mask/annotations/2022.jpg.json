@@ -1,0 +1,1 @@
+{"FileName": "2022.jpg", "NumOfAnno": 2, "Annotations": [{"isProtected": false, "ID": 978011436301459200, "BoundingBox": [264, 24, 888, 803], "classname": "face_with_mask", "Confidence": 1, "Attributes": {}}, {"isProtected": false, "ID": 747291257566949632, "BoundingBox": [312, 348, 835, 788], "classname": "mask_colorful", "Confidence": 1, "Attributes": {}}]}

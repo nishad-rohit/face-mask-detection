@@ -1,0 +1,124 @@
+{
+    "classes": [
+        {
+            "title": "hijab_niqab",
+            "shape": "rectangle",
+            "color": "#2D7B53",
+            "geometry_config": {}
+        },
+        {
+            "title": "mask_colorful",
+            "shape": "rectangle",
+            "color": "#ADCE88",
+            "geometry_config": {}
+        },
+        {
+            "title": "mask_surgical",
+            "shape": "rectangle",
+            "color": "#319051",
+            "geometry_config": {}
+        },
+        {
+            "title": "face_no_mask",
+            "shape": "rectangle",
+            "color": "#50E3C2",
+            "geometry_config": {}
+        },
+        {
+            "title": "face_with_mask_incorrect",
+            "shape": "rectangle",
+            "color": "#D0021B",
+            "geometry_config": {}
+        },
+        {
+            "title": "face_with_mask",
+            "shape": "rectangle",
+            "color": "#F7952B",
+            "geometry_config": {}
+        },
+        {
+            "title": "face_other_covering",
+            "shape": "rectangle",
+            "color": "#7ED321",
+            "geometry_config": {}
+        },
+        {
+            "title": "scarf_bandana",
+            "shape": "rectangle",
+            "color": "#4845A1",
+            "geometry_config": {}
+        },
+        {
+            "title": "balaclava_ski_mask",
+            "shape": "rectangle",
+            "color": "#DA6AF0",
+            "geometry_config": {}
+        },
+        {
+            "title": "face_shield",
+            "shape": "rectangle",
+            "color": "#813BF1",
+            "geometry_config": {}
+        },
+        {
+            "title": "other",
+            "shape": "rectangle",
+            "color": "#ADA61F",
+            "geometry_config": {}
+        },
+        {
+            "title": "gas_mask",
+            "shape": "rectangle",
+            "color": "#CE491C",
+            "geometry_config": {}
+        },
+        {
+            "title": "turban",
+            "shape": "rectangle",
+            "color": "#E2F551",
+            "geometry_config": {}
+        },
+        {
+            "title": "helmet",
+            "shape": "rectangle",
+            "color": "#DB143F",
+            "geometry_config": {}
+        },
+        {
+            "title": "sunglasses",
+            "shape": "rectangle",
+            "color": "#35FDCB",
+            "geometry_config": {}
+        },
+        {
+            "title": "eyeglasses",
+            "shape": "rectangle",
+            "color": "#DEBB4A",
+            "geometry_config": {}
+        },
+        {
+            "title": "hair_net",
+            "shape": "rectangle",
+            "color": "#2C8146",
+            "geometry_config": {}
+        },
+        {
+            "title": "hat",
+            "shape": "rectangle",
+            "color": "#D06243",
+            "geometry_config": {}
+        },
+        {
+            "title": "goggles",
+            "shape": "rectangle",
+            "color": "#9A9509",
+            "geometry_config": {}
+        },
+        {
+            "title": "hood",
+            "shape": "rectangle",
+            "color": "#2DEBB6",
+            "geometry_config": {}
+        }
+    ]
+}

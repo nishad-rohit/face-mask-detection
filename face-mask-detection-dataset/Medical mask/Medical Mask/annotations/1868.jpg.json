@@ -1,0 +1,1 @@
+{"FileName": "1868.jpg", "NumOfAnno": 2, "Annotations": [{"isProtected": false, "ID": 620061886315587200, "BoundingBox": [1211, 605, 2167, 1761], "classname": "face_other_covering", "Confidence": 1, "Attributes": {}}, {"isProtected": false, "ID": 749718272162272768, "BoundingBox": [1298, 893, 1960, 1267], "classname": "sunglasses", "Confidence": 1, "Attributes": {}}]}

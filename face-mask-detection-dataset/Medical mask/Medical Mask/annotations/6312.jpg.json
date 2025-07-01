@@ -1,0 +1,1 @@
+{"FileName": "6312.jpg", "NumOfAnno": 2, "Annotations": [{"isProtected": false, "ID": 231496959279122496, "BoundingBox": [250, 70, 648, 367], "classname": "hat", "Confidence": 1, "Attributes": {}}, {"isProtected": false, "ID": 140566527657426272, "BoundingBox": [227, 187, 539, 578], "classname": "face_other_covering", "Confidence": 1, "Attributes": {}}]}
